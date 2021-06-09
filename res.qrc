@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bullet.mp3</file>
+        <file>Max Brhon - Cyberpunk [NCS Release].mp3</file>
+        <file>blast.mp3</file>
+        <file>light.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>laserGreen.png</file>
+        <file>clipart2908532.png</file>
+        <file>enemyShip1.png</file>
+        <file>enemyUFO1.png</file>
+        <file>pngegg (1).png</file>
+        <file>meteorSmall1.png</file>
+        <file>ab.png</file>
+        <file>boss.png</file>
+    </qresource>
+</RCC>
